@@ -1,0 +1,53 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Build output directories
+/build/
+/target/
+
+# IDE-specific files (IntelliJ IDEA, Eclipse, NetBeans, etc.)
+.idea/
+/*.iml
+/.project
+/.classpath
+/.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dependency directories (if not using a dependency management tool like Maven or Gradle)
+lib/
+
+# Generated files by build tools
+*.jar
+*.war
+*.ear
+
+# Configuration files for build tools (if you use Maven or Gradle)
+mvn/
+.gradle/
+
+# Local environment configurations
+*.local
+*.env
+
+# User-specific files (e.g., IntelliJ IDEA user-specific configuration)
+*.sublime-workspace
+*.sublime-project
+
+# Miscellaneous
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+*.project
+*.pyc
+*.pyo
+
+# Folder for generated assets (optional; depends on how you handle assets)
+assets/generated/
+
